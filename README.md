@@ -18,4 +18,4 @@ ResearchX allows you to **generate comprehensive research documents** using adva
 - Document Processing: Export support for DOCX and PDF formats  
 
 ## 📄 License  
-MIT © 2026 Aditya Domle ✨
+MIT © 2026 wassim ✨
